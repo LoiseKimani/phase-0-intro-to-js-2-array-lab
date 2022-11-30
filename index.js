@@ -63,7 +63,7 @@ return newArray
 
 }
 
-function removefirstCat() {
+function removeFirstCat() {
    const cats=['Milo', 'Otis', 'Garfield']
    const newArr= cats.slice(1)
      
